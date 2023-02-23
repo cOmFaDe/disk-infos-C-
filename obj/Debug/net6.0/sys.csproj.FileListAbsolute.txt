@@ -1,0 +1,15 @@
+C:\Users\Vitor\source\repos\sys\sys\bin\Debug\net6.0\sys.exe
+C:\Users\Vitor\source\repos\sys\sys\bin\Debug\net6.0\sys.deps.json
+C:\Users\Vitor\source\repos\sys\sys\bin\Debug\net6.0\sys.runtimeconfig.json
+C:\Users\Vitor\source\repos\sys\sys\bin\Debug\net6.0\sys.dll
+C:\Users\Vitor\source\repos\sys\sys\bin\Debug\net6.0\sys.pdb
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.dll
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\refint\sys.dll
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.pdb
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\sys.genruntimeconfig.cache
+C:\Users\Vitor\source\repos\sys\sys\obj\Debug\net6.0\ref\sys.dll
